@@ -23,7 +23,7 @@ This package can be found on [Packagist](http://packagist.org) and installed wit
 
 Require the package for Windows with:
 
-    php composer.phar require mikysetiawan/wkhtmltopdf-windows "0.12.2.3"
+    php composer.phar require mikysetiawan/wkhtmltopdf-windows
 
 
 The binaries will then be located at:
