@@ -13,8 +13,6 @@ Binaries for __Linux amd64__, also installable with composer, can be found here:
 ## Installation
 
 _Hint_:
-The version of the binary is equal to the git tag.
-
 In case this package does _not_ work on your system, try installing the matching system packages from here: [http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html).
 
 ### Packagist
