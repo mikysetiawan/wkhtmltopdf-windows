@@ -22,14 +22,10 @@ In case this package does _not_ work on your system, try installing the matching
 This package can be found on [Packagist](http://packagist.org) and installed with [Composer](https://getcomposer.org/).
 
 Require the package for Windows with:
-
-    php composer.phar require mikysetiawan/wkhtmltopdf-windows
-
+    composer require mikysetiawan/wkhtmltopdf-windows
 
 The binaries will then be located at:
-
     vendor/mikysetiawan/wkhtmltopdf-windows/bin/wkhtmltopdf-windows
 
 Also a symlink will be created in your configured bin/ folder, for example:
-
     vendor/bin/32bit/wkhtmltopdf.exe.bat and vendor/bin/64bit/wkhtmltopdf.exe.bat
